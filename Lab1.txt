@@ -1,0 +1,9 @@
+Defer function : 
+Go has a special statement called defer which schedules a function call to be run after the function completes.
+
+Panic function :
+Panic function is called to cause a run time error.
+
+Recover function : 
+We can handle a run-time panic with the built-in recover function.Recover stops the panic and returns the value that was
+passed to the call to panic.
